@@ -1,0 +1,4 @@
+Venue Id,Venue Name,Venue Latitude,Venue Longitude,Venue Category,Venue Address,Number of Photo,Number of Likes,Number of Dislikes,Rating,Seasonal Hours,Review,Price,Source
+4c5ba4192815c9281618b067,Restoran Kari Kepala Ikan E&O,3.211959,101.670284,Seafood Restaurant,"Jalan Sibu 8,68100 Kuala Lumpur, Kuala Lumpur,Malaysia",209,85,0,6.8,[],The best fish head curry ... highly recommended! :D,Expensive,FourSquareAPI
+5004f1d0e4b0b7eb526730d0,SUBWAY,3.2047977709993027,101.66772822807226,Sandwich Place,"Brem Mall (G-06),52000 Kuala Lumpur, Kuala Lumpur,Malaysia",67,18,0,7.0,[],Always awesome... Wat can I say more because it's one of my favorite,Cheap,FourSquareAPI
+4d25d24b38d0236ac8f6eeb6,Bull Daddy Steak House,3.210155048141296,101.67282441854388,Steakhouse,"2, Jalan 4/18A,51200 Kuala Lumpur, Kuala Lumpur,Malaysia",73,48,0,6.1,[],Garlic chicken not bad !,Very Expensive,FourSquareAPI
